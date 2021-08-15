@@ -17,6 +17,15 @@ Created a second readMe file to verify you can
 Edited the second readMe file
 And then you are going to commit the changes.
 
+You then will go to TestJob in Jenkins
+You will build the job
+Check the Output Console for any issues
+If success, you will see: 
+
+In your File Directory /Jenkins/workspace a file called TestJob
+Which has a readme.txt file 
+And a readmetest.txt files 
+
 You realized a few things about yourself during this time: 
 You crave/love attention especially from someone you like, and they like you back -- especially in the oddest of circumstances
 It's that weird rom com movie moment
