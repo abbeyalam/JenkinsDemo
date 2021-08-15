@@ -5,3 +5,32 @@ The Scientific Method
 You first click on add new file. 
 You then name your file. 
 Then commit. 
+
+You created a Test Jenkins job called "JenkinsDemo"
+You added your GitHub credentials to Jenkins by using the prompts after Manage Credentials
+In which you configured the SCM to be Git
+Linked the Github Repo URL and the Github Credentials
+
+You created a GitHub today & created a repository named JenkinsDemo. 
+Within the repository you created a readme file. 
+Created a second readMe file to verify you can
+Edited the second readMe file
+And then you are going to commit the changes.
+
+You realized a few things about yourself during this time: 
+You crave/love attention especially from someone you like, and they like you back -- especially in the oddest of circumstances
+It's that weird rom com movie moment
+The movie is surrounded by you and your relationships
+But life is so much bigger than you
+Yet you crave attention from a lover, friends, family 
+
+Anime music playing softly in a lecture helps you study. 
+My Hero Academia Soundtrack is good - Emotional & Epic Anime Music
+Anime makes grown men cry 
+That's the key 
+Rap makes grown men cry
+This ReadMe is going to make me cry
+
+Good job Abi!
+
+
